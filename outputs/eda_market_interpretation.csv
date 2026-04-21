@@ -1,0 +1,6 @@
+section,insight
+distribution,"Daily returns are heavily concentrated around zero, suggesting that most trading days see only small price changes."
+central_tendency,"Mean daily return is positive, suggesting a slight upward bias over time."
+volatility,"Volatility is moderate, indicating controlled price movement rather than chaotic swings."
+outliers,"Extreme return values were detected and cleaned (676 observations clipped outside -20% to 20%), reducing distortion from anomalies or structural adjustment effects."
+core_insight,"The NGX market shows clustering around small returns with occasional sharp moves, suggesting a slower-moving market with intermittent bursts of opportunity."

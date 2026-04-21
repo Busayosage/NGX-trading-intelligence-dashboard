@@ -1,0 +1,9 @@
+metric,value
+mean_daily_return,0.0013475517092638365
+median_daily_return,0.0
+daily_return_std,0.040864929192407966
+min_daily_return,-0.2
+max_daily_return,0.2
+outlier_count_abs_gt_10pct,1939
+outlier_share,0.0266870363488721
+market_regime,Moderate-volatility controlled market

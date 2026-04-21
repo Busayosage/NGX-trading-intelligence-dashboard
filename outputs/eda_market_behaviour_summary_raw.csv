@@ -1,0 +1,9 @@
+metric,value
+mean_daily_return_raw,0.004031726735469317
+median_daily_return_raw,0.0
+daily_return_std_raw,0.3801711471212631
+min_daily_return_raw,-1.0
+max_daily_return_raw,99.0
+outlier_count_abs_gt_10pct_raw,1939
+outlier_share_raw,0.0266870363488721
+market_regime_raw,High-volatility / event-driven market

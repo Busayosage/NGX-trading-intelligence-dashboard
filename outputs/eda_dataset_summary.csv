@@ -1,0 +1,10 @@
+metric,value
+row_count,72769
+column_count,13
+unique_tickers,111
+start_date,2008-02-11 00:00:00
+end_date,2024-11-07 00:00:00
+missing_close_values,0
+duplicate_rows,0
+return_clip_lower,-0.2
+return_clip_upper,0.2
